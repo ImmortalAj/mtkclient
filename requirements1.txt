@@ -4,8 +4,8 @@ pyusb
 pycryptodome
 pycryptodomex
 colorama
-shiboken6
-pyside6
+shiboken
+pyside
 mock
 pyserial
 flake8
